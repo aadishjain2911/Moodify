@@ -25,3 +25,8 @@ Reading material for this week \-
 - [NN with implementation](https://towardsdatascience.com/neural-networks-for-beginners-by-beginners-6bfc002e13a2) (You can skip the CNN part for now)
 - [Pytorch NN](https://curiousily.com/posts/build-your-first-neural-network-with-pytorch/)
 - [Another Pytorch NN](https://towardsdatascience.com/how-to-code-a-simple-neural-network-in-pytorch-for-absolute-beginners-8f5209c50fdd)
+
+### Week 2
+Reading material for this week \-
+- [Understanding CNN](https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/)
+- [CNN Implementation in PyTorch](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
