@@ -29,4 +29,5 @@ Reading material for this week \-
 ### Week 2
 Reading material for this week \-
 - [Understanding CNN](https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/)
+- [NN with implementation](https://towardsdatascience.com/neural-networks-for-beginners-by-beginners-6bfc002e13a2) (You can read the CNN part now)
 - [CNN Implementation in PyTorch](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
