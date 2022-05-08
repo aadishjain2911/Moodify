@@ -31,3 +31,9 @@ Reading material for this week \-
 - [Understanding CNN](https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/)
 - [NN with implementation](https://towardsdatascience.com/neural-networks-for-beginners-by-beginners-6bfc002e13a2) (You can read the CNN part now)
 - [CNN Implementation in PyTorch](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
+
+### Week 3
+Reading material for this week \-
+- [Understanding RNN](https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/)
+- [Other Versions of RNN](https://medium.com/analytics-vidhya/bi-directional-rnn-basics-of-lstm-and-gru-e114aa4779bb)
+- [RNN PyTorch Implementation](https://medium.com/analytics-vidhya/understanding-rnn-implementation-in-pytorch-eefdfdb4afdb)
