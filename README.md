@@ -37,3 +37,6 @@ Reading material for this week \-
 - [Understanding RNN](https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/)
 - [Other Versions of RNN](https://medium.com/analytics-vidhya/bi-directional-rnn-basics-of-lstm-and-gru-e114aa4779bb)
 - [RNN PyTorch Implementation](https://medium.com/analytics-vidhya/understanding-rnn-implementation-in-pytorch-eefdfdb4afdb)
+
+### Week 4
+Read and understand how will we use the [Meta For Developers API](https://developers.facebook.com/blog/post/2018/01/30/instagram-graph-api-updates/) for our purpose i.e. extracting the insta feed of a person
