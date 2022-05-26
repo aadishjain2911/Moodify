@@ -39,4 +39,6 @@ Reading material for this week \-
 - [RNN PyTorch Implementation](https://medium.com/analytics-vidhya/understanding-rnn-implementation-in-pytorch-eefdfdb4afdb)
 
 ### Week 4
-Read and understand how will we use the [Meta For Developers API](https://developers.facebook.com/blog/post/2018/01/30/instagram-graph-api-updates/) for our purpose i.e. extracting the insta feed of a person
+Read and understand how will we use the [Meta For Developers API](https://developers.facebook.com/blog/post/2018/01/30/instagram-graph-api-updates/) for our purpose i.e. extracting the insta feed of a person. 
+- [API session recording](https://drive.google.com/file/d/1fH_Ad_jACQm31yh5cCCZaM1Q-vIn93G2/view?usp=drivesdk)
+- [Demo repository](https://github.com/vibhav011/api-demo)
