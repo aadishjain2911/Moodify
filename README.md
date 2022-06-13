@@ -42,3 +42,11 @@ Reading material for this week \-
 Read and understand how will we use the [Meta For Developers API](https://developers.facebook.com/blog/post/2018/01/30/instagram-graph-api-updates/) for our purpose i.e. extracting the insta feed of a person. 
 - [API session recording](https://drive.google.com/file/d/1fH_Ad_jACQm31yh5cCCZaM1Q-vIn93G2/view?usp=drivesdk)
 - [Demo repository](https://github.com/vibhav011/api-demo)
+
+### Week 5
+Look up for dataset online for both image and textual data with annotated sentiments. Couple of examples -
+- [Textual Data](https://www.dropbox.com/s/607ptdakxuh5i4s/merged_training.pkl)
+- [Image Data](http://www.imageemotion.org/testImages_artphoto.zip)
+
+### Week 6
+Build a basic pipeline of the model including input preprocessing, a very basic naive model, correct output format, and metric calculation. Don't pay attention to model details or metric values now.
